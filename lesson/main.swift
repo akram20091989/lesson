@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("Hello, World!")
+print(<#T##items: Any...##Any#>)
 
